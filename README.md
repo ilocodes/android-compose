@@ -6,7 +6,7 @@
 </div>
 
 ###
-This course teaches learners on how to build Android apps using the latest best practices. It covers the basics of building apps with Jetpack Compose, the recommended toolkit for building user interfaces on Android.
+In this repo, i document my journey in learning Android app development. The best way to start learning Android development was to learn from offical channel - Google. Google provides a course: Android Basics with Compose for beginners who like to learn Android development. This course teaches learners on how to build Android apps using the latest best practices. It covers the basics of building apps with Jetpack Compose, the recommended toolkit for building user interfaces on Android.
 ## Objective
 - Understand the fundamentals of Kotlin and Jetpack Compose
 - Build a series of basic Android apps
