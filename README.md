@@ -2,7 +2,7 @@
 ###
 
 <div align="left">
-  <img height="450" src= "android-banner.png" />
+  <img height="400" src= "android-banner.png" />
 </div>
 
 ###
