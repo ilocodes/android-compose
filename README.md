@@ -1,4 +1,11 @@
 # Android Basics with Compose
+###
+
+<div align="left">
+  <img height="450" src= "android-banner.png" />
+</div>
+
+###
 This course teaches learners on how to build Android apps using the latest best practices. It covers the basics of building apps with Jetpack Compose, the recommended toolkit for building user interfaces on Android.
 ## Objective
 - Understand the fundamentals of Kotlin and Jetpack Compose
